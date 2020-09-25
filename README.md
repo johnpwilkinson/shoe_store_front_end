@@ -1,3 +1,5 @@
+GitHub Repo for Django back end / REST API : https://github.com/johnpwilkinson/shoe_store_back_end
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
